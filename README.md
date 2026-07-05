@@ -4,7 +4,7 @@ This repository contains my learning and practice work with the **Pandas** libra
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 - ✅ Series and DataFrames  
 - ✅ Data cleaning: missing values, duplicates  
